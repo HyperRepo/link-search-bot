@@ -16,7 +16,7 @@ class Config(object):
     
     
     
-🤖 My Name: <a href='https://youtube.com/@bilijackson'>Link Search Bot</a>
+🤖 My Name: <a href='https://youtube.com/@bilijackson'>Tarun</a>
 
 📝 Language : <a href='https://www.python.org'> Python V3</a>
 
@@ -24,7 +24,7 @@ class Config(object):
 
 📡 Server: <a href='koyeb.com'>Koyeb</a>
 
-👨‍💻 Created By: <a href='https://t.me/GreyMatter_Bot'>GreyMatter's Bot</a></b>
+👨‍💻 Created By: <a href='https://t.me/DramamMon'>DramaMob</a></b>
 """
 
     ABOUT_HELP_TEXT = """<b>👨‍💻 Creator : <a href='https://t.me/DramaMob'>Updates Channel</a>
